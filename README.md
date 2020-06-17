@@ -9,6 +9,6 @@ This is the typescript video recording class that is used to
 - Record video
 - Add Canvas 2D edits dynamically
 
-Follow VideoCapture.tsx for more reference on how to use.
+Follow VideoComponent.tsx for more reference on how to use.
 
 
